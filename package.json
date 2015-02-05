@@ -1,0 +1,18 @@
+{
+  "name": "fmob-studio",
+  "version": "1.0.0",
+  "description": "Site institucional da F>MOB STUDIO.",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:fmobstudio/fmob.git"
+  },
+  "author": "Filipe Oliveira",
+  "license": "Copyright",
+  "dependencies": {
+    "http-server": "^0.7.4"
+  }
+}
